@@ -29,3 +29,4 @@ Perfect for portfolios in People Analytics, HR Analytics, or Data Visualization 
 Open to feedback and contributions.
 
 #PowerBI #HRAnalytics #PeopleAnalytics #DataVisualization #AttritionAnalysis
+
